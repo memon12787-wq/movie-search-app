@@ -1,3 +1,5 @@
+A React-based movie search application using OMDb API with real-time search, loading state, and error handling. Built with React hooks and component-based architecture.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
